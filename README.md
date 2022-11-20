@@ -11,3 +11,5 @@ The depedencies include
 
 
 ## IF YOUR USING THIS TEMPLATE PLEASE REMOVE .git (folder) AFTER YOU CLONE THIS REPO
+
+![Screenshot](2.png) 
