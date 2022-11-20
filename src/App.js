@@ -3,7 +3,7 @@ import './App.css'
 
 const App = () => {
   return (
-    <div>Created by LemonJuice</div>
+    <h1>Created by Snehal</h1>
   )
 }
 
